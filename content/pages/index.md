@@ -13,7 +13,7 @@ sections:
       for Real Estate professionals! AI integration is easy, FREE your time and
       let our robots do the work.
     actions:
-      - label: Where Do I Start?
+      - label: Get Started
         altText: ''
         url: /
         showIcon: false
