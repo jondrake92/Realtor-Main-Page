@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Realtor Robotics was founded for one purpose in mind, All-Around support
+      for Real Estate professionals! AI integration is easy, FREE your time and
+      let our robots do the work.
     actions:
       - label: Get started
         altText: ''
