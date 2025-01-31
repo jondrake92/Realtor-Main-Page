@@ -64,10 +64,10 @@ sections:
       - type: FeaturedItem
         title: Simplify Email
         subtitle: Multiple Email Leads
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Most Real Estate professionals use multiple lead sources (Realtor,
+          Apartments, Zillow). Consolidating and Organizing your Lead-Flow
+          process with us can open an average of 3+ hours per day! 
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
