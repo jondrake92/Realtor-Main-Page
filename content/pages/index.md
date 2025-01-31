@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Free up your time and get you back to work on what matters most.
+      text: Reclaim Your Time. Boost Your Business.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
