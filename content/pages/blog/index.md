@@ -8,7 +8,7 @@ topSections:
       text: Automate and Integrate
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: 'All your end user apps, every different email, ALL in ONE place.'
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
