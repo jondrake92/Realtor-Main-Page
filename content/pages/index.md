@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Let's free up your time and get you back to work on what matters most.
+      text: Free up your time and get you back to work on what matters most.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
