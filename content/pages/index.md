@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Time to start winning!
+      label: start winning!
       color: text-primary
       type: Badge
     elementId: ''
