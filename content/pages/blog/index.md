@@ -5,7 +5,7 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Streamline your
+      text: 'Integrate seamlessly, all your'
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
